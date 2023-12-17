@@ -1,5 +1,5 @@
 # Calisthenix
-!
+!a
 ## Project setup
 ```
 yarn install
