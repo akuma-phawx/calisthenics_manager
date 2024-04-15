@@ -1,4 +1,4 @@
-# Calisthenix
+# Calisthenix !
 
 ## Project setup
 ```
